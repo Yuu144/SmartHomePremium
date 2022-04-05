@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\
+H:\GitSmartHome\UniversalServer\obj\Debug\
 UniversalServer
 none
 false
 DEBUG;TRACE
-H:\Smarthome\UniversalServer\UniversalServer\App.xaml
+H:\GitSmartHome\UniversalServer\App.xaml
 11151548125
 1-1920931171
 201017030432
-16-1049575091
+161344760821
 MainWindow.xaml;
 
 False
