@@ -1,0 +1,214 @@
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.Cache
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojResolveAssemblyReference.cache
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.lref
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.Cache
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\ruedi\Documents\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.Cache
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojResolveAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServerDB.mdf
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServerDB_log.ldf
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\MySql.Data.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.Cache
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServerDB.mdf
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServerDB_log.ldf
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\MySql.Data.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojResolveAssemblyReference.cache
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\template.html
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\template.html
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ruediger.berg\OneDrive\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojResolveAssemblyReference.cache
+C:\Users\ruedi\OneDrive\Code\UniversalServer\UniversalServer\bin\Debug\template.html
+C:\Users\RüdigerBerg\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\RüdigerBerg\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\RüdigerBerg\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\bin\Debug\template.html
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.cache
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\ruediger.lokal.user\OneDrive - IT-Systeme & Konzepte\Code\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojAssemblyReference.cache
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\template.html
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojAssemblyReference.cache
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.cache
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\template.html
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojAssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.cache
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\Bx\Documents\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\template.html
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojAssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+H:\Smarthome\UniversalServer\UniversalServer\bin\Debug\template.html
+H:\Smarthome\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+H:\Smarthome\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+H:\Smarthome\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csprojAssemblyReference.cache
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.cache
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+H:\Smarthome\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+H:\GitSmartHome\UniversalServer\bin\Debug\template.html
+H:\GitSmartHome\UniversalServer\bin\Debug\UniversalServer.exe.config
+H:\GitSmartHome\UniversalServer\bin\Debug\UniversalServer.exe
+H:\GitSmartHome\UniversalServer\bin\Debug\UniversalServer.pdb
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer.csprojAssemblyReference.cache
+H:\GitSmartHome\UniversalServer\obj\Debug\MainWindow.baml
+H:\GitSmartHome\UniversalServer\obj\Debug\MainWindow.g.cs
+H:\GitSmartHome\UniversalServer\obj\Debug\App.g.cs
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer.g.resources
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.cache
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer.exe
+H:\GitSmartHome\UniversalServer\obj\Debug\UniversalServer.pdb

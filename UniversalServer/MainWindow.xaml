@@ -1,0 +1,104 @@
+﻿<Window x:Class="UniversalServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        FontFamily="Segoe UI Emoji"
+        FontSize="16"
+        Height="300"
+        Width="600"
+        Background="#2B2B2B">
+
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+    </Window.Resources>
+    
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding WindowLoaded}" />
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Viewbox>
+        <StackPanel>
+            <Grid ShowGridLines="True">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Row 0 Bezeichnungen -->
+                <Label Content="Temperatur" Grid.Row="0" Grid.Column="1" />
+                <Label Content="Luftfeuchte" Grid.Row="0" Grid.Column="2" />
+                <Label Content="Luftdruck" Grid.Row="0" Grid.Column="3" />
+
+                <!-- Row 1 Max-Datum -->
+                <Label Content="Max-Datum" Grid.Row="1" Grid.Column="0" />
+                <Label Content="{Binding TempMaxValue.DateAndTime , FallbackValue='31.8.2018, 16:45'}"
+                    ContentStringFormat="dd.MM.yyyy HH:mm:ss"
+                HorizontalContentAlignment="Stretch"  Grid.Row="1" Grid.Column="1"  />
+                <Label Content="{Binding  FeuchteMaxValue.DateAndTime, FallbackValue='31.8.2018, 16:45'}"
+                    ContentStringFormat="dd.MM.yyyy HH:mm:ss"
+                HorizontalContentAlignment="Stretch"  Grid.Row="1" Grid.Column="2"  />
+                <Label Content="{Binding PressMaxVal.DateAndTime , FallbackValue='1.8.2018, 6:32'}"
+                    ContentStringFormat="dd.MM.yyyy HH:mm:ss"
+                HorizontalContentAlignment="Stretch"  Grid.Row="1" Grid.Column="3"  />
+
+                <!-- Row 2 Max-Werte -->
+                <Label Content="Max:" HorizontalContentAlignment="Stretch" Grid.Row="2" Grid.Column="0" />
+                <Label Content="{Binding TempMaxValue.Value, FallbackValue=33.5}"
+                 HorizontalContentAlignment="Stretch" Grid.Row="2" Grid.Column="1"  />
+                <Label Content="{Binding FeuchteMaxValue.Value, FallbackValue='99.6 %'}"
+                 HorizontalContentAlignment="Stretch" Grid.Row="2" Grid.Column="2" />
+                <Label Content="{Binding PressMaxVal.Value, FallbackValue='1110 hPa'}"
+                 HorizontalContentAlignment="Stretch" Grid.Row="2" Grid.Column="3" />
+
+                <!-- Row 3-->
+                <Label Content= "{Binding TempAktuellValue.DateAndTime}"
+                Grid.Row="3" Grid.Column="0"
+                   ContentStringFormat="dd.MM.yyyy HH:mm:ss"
+                   Background="#3B3B3B"/>
+                <Label Content="{Binding TempAktuellValue.Value , FallbackValue='23,5 °C'}" Background="#3B3B3B"
+                HorizontalContentAlignment="Stretch"  Grid.Row="3" Grid.Column="1" />
+                <Label Content="{Binding FeuchteAktuellValue.Value , FallbackValue='56 %'}" Background="#3B3B3B"
+                HorizontalContentAlignment="Stretch"  Grid.Row="3" Grid.Column="2" />
+                <Label Content="{Binding PressCurrentVal.Value , FallbackValue='879 hPa'}" Background="#3B3B3B"
+                HorizontalContentAlignment="Stretch"  Grid.Row="3" Grid.Column="3" />
+
+                <!-- Row 4-->
+                <Label Content="Min:" Grid.Row="4" Grid.Column="0" />
+                <Label Content="{Binding TempMinValue.Value , FallbackValue='-12,2 °C'}"
+                HorizontalContentAlignment="Stretch"  Grid.Row="4" Grid.Column="1" />
+                <Label Content="{Binding FeuchteMinValue.Value , FallbackValue='22 %'}"
+                HorizontalContentAlignment="Stretch"  Grid.Row="4" Grid.Column="2" />
+                <Label Content="{Binding PressMinVal.Value , FallbackValue='521 hPa'}"
+                HorizontalContentAlignment="Stretch"  Grid.Row="4" Grid.Column="3" />
+
+                <!--Row 5-->
+                <Label Content="Min-Datum" Grid.Row="5" Grid.Column="0" />
+                <Label Content="{Binding TempMinValue.DateAndTime , FallbackValue='19.2.2018, 5:45'}"
+                    ContentStringFormat="dd.MM.yyyy HH:mm:ss"
+                HorizontalContentAlignment="Stretch"  Grid.Row="5" Grid.Column="1"  />
+                <Label Content="{Binding FeuchteMinValue.DateAndTime , FallbackValue='31.8.2018, 16:45'}"
+                    ContentStringFormat="dd.MM.yyyy HH:mm:ss"
+                HorizontalContentAlignment="Stretch"  Grid.Row="5" Grid.Column="2"  />
+                <Label Content="{Binding PressMinVal.DateAndTime , FallbackValue='1.8.2018, 6:32'}"
+                    ContentStringFormat="dd.MM.yyyy HH:mm:ss"
+                HorizontalContentAlignment="Stretch"  Grid.Row="5" Grid.Column="3"  />
+            </Grid>
+            <Label Content="Status: " Background="#3B3B3B" Grid.Row="6" Grid.Column="0"/>
+            <Label Content="{Binding Status}" Background="#3B3B3B"/>
+        </StackPanel>
+    </Viewbox>
+</Window>
